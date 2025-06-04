@@ -6,9 +6,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
-//dsadas
-//dsadsadsa
+// some changes
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
