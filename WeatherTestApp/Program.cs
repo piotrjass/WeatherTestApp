@@ -11,6 +11,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 
 // change 1
+// change 2
 
 // changes WEA-2 WEA-2 WEA-2
 if (app.Environment.IsDevelopment())
