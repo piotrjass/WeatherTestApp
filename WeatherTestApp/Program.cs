@@ -6,8 +6,15 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
-
+// some changes adssddsa
+// asddsadsdsadsa
 // Configure the HTTP request pipeline.
+
+// change 1
+// change 2
+// change 3
+
+// changes WEA-2 WEA-2 WEA-2
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
